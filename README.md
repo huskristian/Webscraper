@@ -15,8 +15,8 @@ CSV soubor bude výstup se všemi daty.
 Příklad pro okres Prostějov
 
   1.URL -> https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
-  2.Název CSV souboru -> vystup.csv
+  2.Název CSV souboru -> výstup.csv
 
 Příkaz:
 
-  python webscraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vystup.csv"
+  python webscraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "výstup.csv"
